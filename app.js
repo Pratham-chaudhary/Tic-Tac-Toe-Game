@@ -114,7 +114,7 @@ const getColor = () => {
         getColor
     )
 
-
+//Added a function 
 
 
 /*Author - Pratham Chaudhary
